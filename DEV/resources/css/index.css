@@ -1,0 +1,51 @@
+* {
+font-family: sans-serif;
+}
+h1 {
+color:black;
+font-size: 70pt;
+}
+p {
+font-size: 18pt;
+font-width: 200;
+color: black;
+}
+
+html{
+    background-color: white;
+}
+.banner{
+    background-color: #FFCC00;
+    color: black;
+    margin-top: 75px;
+    text-align: center;
+    padding: 50px 0;
+}
+
+#cyberimage{
+   height: 200px; 
+   width: 600px;
+}
+
+#tips{
+    color: black;
+    font: bold;
+    font-size: 38pt;
+    font-family: sans-serif;
+  
+}
+
+.bold{
+font-weight: 900;
+}
+
+#conclusion{
+    background-color: #FFFF00;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+}
